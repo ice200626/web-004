@@ -7,7 +7,7 @@
     <title>Catálogo de Precios</title>
     <style>
         .catalogo {
-            width: 80%;
+            width: 100%;
             margin: 0 auto;
             border-collapse: collapse;
         }
@@ -21,7 +21,7 @@
         }
         .boton-consulta {
             display: inline-block;
-            padding: 5px 10px;
+            padding: 50px 100px;
             background-color: #4CAF50; /* Color del botón */
             color: white; /* Color del texto */
             text-decoration: none;
