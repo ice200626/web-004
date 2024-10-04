@@ -21,7 +21,7 @@
         }
         .boton-consulta {
             display: inline-block;
-            padding: 50px 100px;
+            padding: 100px 100px;
             background-color: #4CAF50; /* Color del botón */
             color: white; /* Color del texto */
             text-decoration: none;
