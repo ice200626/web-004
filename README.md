@@ -59,3 +59,20 @@
     </table>
 </body>
 </html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botón con Hipervínculo</title>
+</head>
+<body>
+    <a href="https://www.ejemplo.com" style="display: inline-block; padding: 10px 20px; background-color: #008CBA; color: white; text-decoration: none; border-radius: 5px;">Haz clic aquí</a>
+</body>
+</html>
