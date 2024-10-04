@@ -44,7 +44,7 @@
         <tr>
             <td>Producto 1</td>
             <td>$150.00</td>
-            <td><a href="http://ice200626.github.io/web-005/" class="boton-consulta">Consulta</a></td>
+            <td><a href="https://ice200626.github.io/web-005/" class="boton-consulta">Consulta</a></td>
         </tr>
         <tr>
             <td>Producto 2</td>
