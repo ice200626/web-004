@@ -49,12 +49,12 @@
         <tr>
             <td>Producto 2</td>
             <td>$200.00</td>
-            <td><a href="https://www.ejemplo.com/consulta2" class="boton-consulta">Consulta</a></td>
+            <td><a href="https://ice200626.github.io/web-005/" class="boton-consulta">Consulta</a></td>
         </tr>
         <tr>
             <td>Producto 3</td>
             <td>$250.00</td>
-            <td><a href="https://www.ejemplo.com/consulta3" class="boton-consulta">Consulta</a></td>
+            <td><a href="https://ice200626.github.io/web-005/" class="boton-consulta">Consulta</a></td>
         </tr>
     </table>
 </body>
