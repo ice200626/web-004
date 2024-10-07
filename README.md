@@ -54,36 +54,35 @@
     <h1>Catálogo de Precios</h1>
     <div class="catalogo">
         <div class="producto">
-            <h2>Producto 1</h2>
+            <h2>blog web</h2>
             <p class="precio">$10.00</p>
-            <a href="#" class="boton">Añadir al carrito</a>
+            <a href="#" class="boton">solicitar</a>
         </div>
         <div class="producto">
-            <h2>Producto 2</h2>
+            <h2>web de venta y compra</h2>
             <p class="precio">$15.00</p>
-            <a href="#" class="boton">Añadir al carrito</a>
+            <a href="#" class="boton">solicitar</a>
         </div>
         <div class="producto">
-            <h2>Producto 3</h2>
+            <h2>web para almacenar datos</h2>
             <p class="precio">$20.00</p>
-            <a href="#" class="boton">Añadir al carrito</a>
+            <a href="#" class="boton">solicitar</a>
         </div>
         <div class="producto">
-            <h2>Producto 4</h2>
+            <h2>web educativa </h2>
             <p class="precio">$25.00</p>
-            <a href="#" class="boton">Añadir al carrito</a>
+            <a href="#" class="boton">solicitar</a>
         </div>
         <div class="producto">
-            <h2>Producto 5</h2>
+            <h2>web informativa</h2>
             <p class="precio">$30.00</p>
-            <a href="#" class="boton">Añadir al carrito</a>
+            <a href="#" class="boton">solicitar</a>
         </div>
     </div>
 </body>
 </html>
 
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -91,6 +90,6 @@
     <title>Botón con Hipervínculo</title>
 </head>
 <body>
-    <a href="https://ice200626.github.io/web-003/" style="display: inline-block; padding: 10px 20px; background-color: #008CBA; color: white; text-decoration: none; border-radius: 5px;">Haz clic aquí</a>
+    <a href="https://ice200626.github.io/web-003/" style="display: inline-block; padding: 10px 20px; background-color: #008CBA; color: white; text-decoration: none; border-radius: 5px;">atras</a>
 </body>
 </html>
