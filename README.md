@@ -91,6 +91,6 @@
     <title>Botón con Hipervínculo</title>
 </head>
 <body>
-    <a href="https://www.ejemplo.com" style="display: inline-block; padding: 10px 20px; background-color: #008CBA; color: white; text-decoration: none; border-radius: 5px;">Haz clic aquí</a>
+    <a href="https://ice200626.github.io/web-003/" style="display: inline-block; padding: 10px 20px; background-color: #008CBA; color: white; text-decoration: none; border-radius: 5px;">Haz clic aquí</a>
 </body>
 </html>
