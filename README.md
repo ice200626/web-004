@@ -88,6 +88,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Botón con Hipervínculo</title>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web con Imagen de Fondo</title>
+    <style>
+        body {
+            background-image: url('ruta_de_la_imagen.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bienvenido a Mi Página Web</h1>
+    <p>Esta es una página con una imagen de fondo.</p>
+</body>
+</html>
+
+
+    
 </head>
 <body>
     <a href="https://ice200626.github.io/web-003/" style="display: inline-block; padding: 10px 20px; background-color: #008CBA; color: white; text-decoration: none; border-radius: 5px;">atras</a>
