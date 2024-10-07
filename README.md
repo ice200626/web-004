@@ -77,7 +77,7 @@
         <div class="producto">
             <h2>web informativa</h2>
             <p class="precio">$30.00</p>
-            <a href="#" class="boton">solicitar</a>
+            <a href="xxxxx" class="boton">solicitar</a>
         </div>
     </div>
 </body>
