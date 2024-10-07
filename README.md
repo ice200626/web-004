@@ -2,8 +2,9 @@
 <html  lang="es"> 
 <head> 
     <meta  charset="UTF- 8">
-    <meta  name="ventana gráfica"  content="ancho=dispositivo-width, initial-scale=1.0">
-    <title>Catálogo de Precios</title>
+<meta  name="ventana gráfica"  content="ancho=dispositivo-width,color:white,initial-scale=1.0">
+    <title>Catálogo de Precios 
+    </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -104,7 +105,7 @@
 </head>
 <body>
     <h1></h1>
-    <p>Esta es una página con una imagen de fondo.</p>
+    <p></p>
 </body>
 </html>
 
