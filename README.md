@@ -57,22 +57,22 @@
         <div class="producto">
             <h2>blog web</h2>
             <p class="precio">$10.00</p>
-            <a href="#" class="boton">solicitar</a>
+            <a href="https://ice200626.github.io/web-005/" class="boton">solicitar</a>
         </div>
         <div class="producto">
             <h2>web de venta y compra</h2>
             <p class="precio">$15.00</p>
-            <a href="#" class="boton">solicitar</a>
+            <a href="https://ice200626.github.io/web-005/" class="boton">solicitar</a>
         </div>
         <div class="producto">
             <h2>web para almacenar datos</h2>
             <p class="precio">$20.00</p>
-            <a href="#" class="boton">solicitar</a>
+            <a href="https://ice200626.github.io/web-005/" class="boton">solicitar</a>
         </div>
         <div class="producto">
             <h2>web educativa </h2>
             <p class="precio">$25.00</p>
-            <a href="#" class="boton">solicitar</a>
+            <a href="https://ice200626.github.io/web-005/" class="boton">solicitar</a>
         </div>
         <div class="producto">
             <h2>web informativa</h2>
