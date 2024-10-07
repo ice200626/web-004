@@ -3,7 +3,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=5.0">
     <title>Catálogo de Precios</title>
     <style>
         .catalogo {
@@ -12,8 +12,8 @@
             border-collapse: collapse;
         }
         .catalogo th, .catalogo td {
-            border: 1px solid #ddd;
-            padding: 8px;
+            border: 5px solid #ddd;
+            padding: 10px;
             text-align: left;
         }
         .catalogo th {
@@ -25,7 +25,7 @@
             background-color: #4CAF50; /* Color del botón */
             color: white; /* Color del texto */
             text-decoration: none;
-            border-radius: 3px;
+            border-radius: 5px;
             transition: background-color 0.3s ease;
         }
         .boton-consulta:hover {
