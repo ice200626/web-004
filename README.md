@@ -90,7 +90,6 @@
     <title>Botón con Hipervínculo</title>
 
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>Web con Imagen de Fondo</title>
@@ -104,7 +103,7 @@
     </style>
 </head>
 <body>
-    <h1>Bienvenido a Mi Página Web</h1>
+    <h1></h1>
     <p>Esta es una página con una imagen de fondo.</p>
 </body>
 </html>
