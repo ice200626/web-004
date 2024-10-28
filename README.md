@@ -96,7 +96,7 @@
     <title>Web con Imagen de Fondo</title>
     <style>
         body {
-            background-image: url('gif 04.gif');
+            background-image: url('fondo n1.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
